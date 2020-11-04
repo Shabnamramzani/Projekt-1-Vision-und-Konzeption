@@ -4,6 +4,8 @@ Gruppe 2:
 
 Facilitator: Wiho Wert <br>
 Coden: Linnéa XXXX <br>
-Documentory: Valeria XXXX <br>
+Decider: <br>
+Scribbeln: <br>
+Documentory: Valeria Orlova <br>
 
 Yavar Siahmakishahri?
