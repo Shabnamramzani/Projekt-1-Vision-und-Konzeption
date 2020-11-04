@@ -1,8 +1,9 @@
 # Projekt-Vision-und-Konzeption
 
-# Gruppe 2:
-# Facilitator: Wiho Wert
-# Coden: Linnéa XXXX
-# Documentory: Valeria XXXX
+Gruppe 2:
 
-# Yavar Siahmakishahri?
+Facilitator: Wiho Wert <br>
+Coden: Linnéa XXXX <br>
+Documentory: Valeria XXXX <br>
+
+Yavar Siahmakishahri?
