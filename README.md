@@ -8,3 +8,4 @@ Decider: Christian Noss; Valeria Orlova<br>
 Scribbeln: Valeria Orlova <br>
 Documentory: Wiho Wert <br>
 
+[Wiki] (https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki)
