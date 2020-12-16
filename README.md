@@ -3,7 +3,7 @@
 Gruppe 2:
 
 Facilitator: Shabnam Ramzani <br>
-Coden: Linnéa Doberstein; Yavar Siahmakishahri <br>
+Coden: Yavar Siahmakishahri <br>
 Decider: Christian Noss; Valeria Orlova<br>
 Scribbeln: Valeria Orlova; Shabnam Ramzani <br>
 Documentory: Wiho Wert <br>
