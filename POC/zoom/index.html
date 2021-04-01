@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POC - Zoom</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .overflow-hidden {
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div class="container is-max-desktop">
+        <h1>POC - Zoom</h1>
+        <h2>Eine Zoomfunktion zur Findung neuer Artefakte</h2>
+        <div class="columns overflow-hidden" id="image-box">
+            <div class="column">
+                <img src="../assets/CDA1.jpg" alt="Datei kann nicht gefunden werden." style="transform: scale(1);">
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        images = document.getElementsByTagName("img")
+        scaleFactor = 0.05
+        
+        imageBox = document.getElementById("image-box")
+        imageBox.addEventListener('wheel', zoom)
+
+        function zoom(event) {
+            event.preventDefault()
+            target = event.target
+
+            if( target.localName != "img" ) {
+                return;
+            }
+
+            match = event.target.style.transform.match(/\d(\.\d{1,2})?/)
+
+            if (match == null) {
+                scaling = 1
+            } else {
+                scaling = parseFloat(match[0])
+            }
+
+            if (event.deltaY > 0) {
+                scaling -= scaleFactor
+            } else {
+                scaling += scaleFactor
+            }
+
+            if (scaling < 0.1) {
+                return;
+            }
+            
+            for (const image of images) {
+                image.style.transform = `scale(${scaling})`
+            }         
+        }
+    </script>
+</body>
+</html>
