@@ -1,3 +1,11 @@
+#opsl {
+    position: relative;
+    height: 281px;
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 300px;
+}
+
 #cf {
     position: relative;
     height: 281px;
@@ -20,4 +28,36 @@
 
 h1 {
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#contrastFilter {
+    margin-top: 100px;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    z-index: 2;
+    opacity: 0.8;
+}
+
+#contrastFilter1 {
+    margin-top: 100px;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    z-index: 2;
+    opacity: 0.4;
+}
+
+#contrast {
+    margin-left: 150px;
 }
