@@ -1,4 +1,4 @@
-# Proof-of-Concepts
+# Proof-of-Concept
 
 Für das Konzept im Projekt Vision und Konzeption werden Proof-of-Concepts benötigt.
 
