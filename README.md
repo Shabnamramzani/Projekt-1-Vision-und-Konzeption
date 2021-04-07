@@ -20,3 +20,6 @@ Zu diesem Problemraum wurde ein Fragenkatalog bzw. ein [Interviewleitfaden](http
 
 ## Zielsetzung
 Ziel dieser Arbeit soll es sein, mit Hilfe von Interviews und Nutzertests ein Konzept zu entwickeln, dass Mitarbeitern des _Cranach Digital Archives_, sowie bspw. Kunsthistorikern, einen modernen und vereinfachten Umgang mit den Artefakten bieten soll. Der Ablauf dieses Prozesses wird festgehalten.
+
+## Dokumentation
+Die Dokumentation befindet sich im [Wiki](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Projekt-Vision-&-Konzeption).
