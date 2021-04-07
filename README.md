@@ -20,22 +20,3 @@ Zu diesem Problemraum wurde ein Fragenkatalog bzw. ein [Interviewleitfaden](http
 
 ## Zielsetzung
 Ziel dieser Arbeit soll es sein, mit Hilfe von Interviews und Nutzertests ein Konzept zu entwickeln, dass Mitarbeitern des _Cranach Digital Archives_, sowie bspw. Kunsthistorikern, einen modernen und vereinfachten Umgang mit den Artefakten bieten soll. Der Ablauf dieses Prozesses wird festgehalten.
-
-## Prozessdokumentation
-Die [Seite](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Prozessdokumentation) der Prozessdokumentation protokolliert die einzelnen Phasen des Arbeitsablaufes und reflektiert diese.
-
-## Arbeitsschritte
-
-### Sprinttage
-Die jeweiligen Sprinttage sind im "Menü" aufgelistet. Nachfolgende eine entsprechende Liste:
-
-* [Sprint 1: Teil 1 bis 5 | 11 bis 18 Uhr](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Sprint-Tag-1:-Teil-1-bis-5-%7C-11-bis-18-Uhr)
-* [Sprint 2: 20.01.2021 | 11 bis 18 Uhr](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Sprint-Tag-2:-20.01.2021-%7C-11-bis-18-Uhr)
-* [Sprint 3: 27.01.2021 | 11 bis 18 Uhr](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Sprint-Tag-3:-27.01.2021-%7C-11-bis-18-Uhr)
-* [Sprint 4: 03.02.2021 | 11 bis 18 Uhr](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Sprint-Tag-4:-03.02.2021-%7C-11-bis-18-Uhr)
-
-### Business Innovation
-Die Termine wurden auf einer eigenen [Seite](https://github.com/wihowe/Projekt-1-Vision-und-Konzeption/wiki/Business-Innovation-(Zusammenfassung)) zusammengefasst.
-
-### Abschlusspräsentation
-Die [Abschlusspräsentation](https://onedrive.live.com/view.aspx?resid=C19B125CF2B9C9D7!1482&ithint=file%2cpptx&authkey=!AG2XKbDTkzABFEQ) wurde mit der anderen Gruppe zusammen in Powerpoint-Online erstellt.
